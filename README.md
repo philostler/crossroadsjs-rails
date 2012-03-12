@@ -1,6 +1,6 @@
 # Crossroads.js for Rails ![Build Status][travis_ci_build_status]
 
-Provides Crossroads.js (0.7.1) for use with Rails 3
+Provides Crossroads.js (0.8.0) for use with Rails 3
 
 [RubyGems][ruby_gems] | [Ruby Toolbox][ruby_toolbox] | [GitHub][github] | [Travis CI][travis_ci] | [RubyDoc][ruby_doc]
 
