@@ -1,8 +1,8 @@
-# Crossroads.js for Rails ![Build Status][travis_ci_build_status]
+# Crossroads.js for Rails [![Build Status][travis_ci_build_status]][travis_ci][![Dependency Status][gemnasium_dependency_status]][gemnasium]
 
 Provides Crossroads.js (0.8.0) for use with Rails 3
 
-[RubyGems][ruby_gems] | [Ruby Toolbox][ruby_toolbox] | [GitHub][github] | [Travis CI][travis_ci] | [RubyDoc][ruby_doc]
+[RubyGems][ruby_gems] | [Ruby Toolbox][ruby_toolbox] | [GitHub][github] | [Travis CI][travis_ci] | [Gemnasium][gemnasium] | [RubyDoc][ruby_doc]
 
 ## Installation
 ### JavaScript Dependencies
@@ -45,12 +45,14 @@ Crossroads.js is now installed. Woop!
 ##Crossroads.js Resources
 [Project Page][crossroadsjs_project_page] | [GitHub][crossroadsjs_github]
 
-[github]: http://github.com/philostler/crossroadsjs-rails
-[ruby_doc]: http://rubydoc.info/github/philostler/crossroadsjs-rails/master/frames
 [ruby_gems]: http://rubygems.org/gems/crossroadsjs-rails
+[ruby_toolbox]: http://www.ruby-toolbox.com/projects/crossroadsjs-rails
+[github]: http://github.com/philostler/crossroadsjs-rails
 [travis_ci]: http://travis-ci.org/philostler/crossroadsjs-rails
 [travis_ci_build_status]: https://secure.travis-ci.org/philostler/crossroadsjs-rails.png
-[ruby_toolbox]: http://www.ruby-toolbox.com/projects/crossroadsjs-rails
+[gemnasium]: https://gemnasium.com/philostler/crossroadsjs-rails
+[gemnasium_dependency_status]: https://gemnasium.com/philostler/crossroadsjs-rails.png
+[ruby_doc]: http://rubydoc.info/github/philostler/crossroadsjs-rails/master/frames
 [jssignals_project_page]: http://millermedeiros.github.com/js-signals
 [jssignals_rails_github]: http://github.com/philostler/jssignals-rails
 [crossroadsjs_project_page]: http://millermedeiros.github.com/crossroads.js
