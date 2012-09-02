@@ -1,6 +1,6 @@
 module Crossroadsjs
   module Rails
-    VERSION = "1.2.1"
-    CROSSROADSJS_VERSION = "0.9.1";
+    VERSION = "1.3.0"
+    CROSSROADSJS_VERSION = "0.10.0";
   end
 end
