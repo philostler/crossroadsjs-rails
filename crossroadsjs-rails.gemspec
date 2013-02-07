@@ -13,6 +13,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "railties", "~> 3.0"
 
+  s.add_development_dependency "fuubar", "~> 1.0"
   s.add_development_dependency "rspec", "~> 2.0"
 
   s.files = Dir[".gitignore"] +
@@ -20,7 +21,6 @@ Gem::Specification.new do |s|
             Dir["Gemfile"] +
             Dir["crossroadsjs-rails.gemspec"] +
             Dir["LICENSE"] +
-            Dir["Rakefile"] +
             Dir["README.md"] +
             Dir["**/*.js"] +
             Dir["**/*.rb"]
